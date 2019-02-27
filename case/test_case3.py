@@ -1,5 +1,4 @@
 # coding=utf-8
-import pytest
 import unittest
 from appium import webdriver
 import time
@@ -27,7 +26,7 @@ class TestClass(unittest.TestCase):
          self.login_business.login_pass()
          self.driver.quit()
      def tearDown(self):
-        print "this is tearDown111111111112"
+        print "this is tearDown1111111111123"
 
 
 
