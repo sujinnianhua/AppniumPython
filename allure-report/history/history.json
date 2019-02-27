@@ -121,11 +121,38 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 9,
+      "passed" : 12,
       "unknown" : 0,
-      "total" : 9
+      "total" : 12
     },
     "items" : [ {
+      "uid" : "f9829de1b64f0f66",
+      "reportUrl" : "http://localhost:8080/job/AppiumPython/80/allure/#testresult/f9829de1b64f0f66",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551236575036,
+        "stop" : 1551236675254,
+        "duration" : 100218
+      }
+    }, {
+      "uid" : "7dda37ada44952bd",
+      "reportUrl" : "http://localhost:8080/job/AppiumPython/78/allure/#testresult/7dda37ada44952bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551235603587,
+        "stop" : 1551235703283,
+        "duration" : 99696
+      }
+    }, {
+      "uid" : "411973188496e422",
+      "reportUrl" : "http://localhost:8080/job/AppiumPython/74/allure/#testresult/411973188496e422",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551234518848,
+        "stop" : 1551234620809,
+        "duration" : 101961
+      }
+    }, {
       "uid" : "e57777275f0407d9",
       "reportUrl" : "http://localhost:8080/job/AppiumPython/73/allure/#testresult/e57777275f0407d9",
       "status" : "passed",
@@ -142,33 +169,6 @@
         "start" : 1551230166110,
         "stop" : 1551230257909,
         "duration" : 91799
-      }
-    }, {
-      "uid" : "4ea8f098ed22127d",
-      "reportUrl" : "http://localhost:8080/job/AppiumPython/71/allure/#testresult/4ea8f098ed22127d",
-      "status" : "passed",
-      "time" : {
-        "start" : 1551229750256,
-        "stop" : 1551229851466,
-        "duration" : 101210
-      }
-    }, {
-      "uid" : "1e9c71feb3e813eb",
-      "reportUrl" : "http://localhost:8080/job/AppiumPython/70/allure/#testresult/1e9c71feb3e813eb",
-      "status" : "passed",
-      "time" : {
-        "start" : 1551166616115,
-        "stop" : 1551166715885,
-        "duration" : 99770
-      }
-    }, {
-      "uid" : "42c06877d16fd053",
-      "reportUrl" : "http://localhost:8080/job/AppiumPython/69/allure/#testresult/42c06877d16fd053",
-      "status" : "passed",
-      "time" : {
-        "start" : 1551166397404,
-        "stop" : 1551166493914,
-        "duration" : 96510
       }
     } ]
   },

@@ -1,21 +1,21 @@
 {
-  "uid" : "e57777275f0407d9",
+  "uid" : "f9829de1b64f0f66",
   "name" : "test_login",
   "fullName" : "case.test_case3.TestClass#test_login",
   "historyId" : "c837e2e9e8d8dbe21a6fde5d77231da2",
   "time" : {
-    "start" : 1551231520195,
-    "stop" : 1551231620879,
-    "duration" : 100684
+    "start" : 1551236575036,
+    "stop" : 1551236675254,
+    "duration" : 100218
   },
   "status" : "passed",
   "flaky" : false,
   "beforeStages" : [ {
     "name" : "_UnitTestCase__pytest_class_setup",
     "time" : {
-      "start" : 1551231494743,
-      "stop" : 1551231520189,
-      "duration" : 25446
+      "start" : 1551236549912,
+      "stop" : 1551236575030,
+      "duration" : 25118
     },
     "status" : "passed",
     "steps" : [ ],
@@ -30,21 +30,21 @@
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "92ac6f734b21b689",
+      "uid" : "80eccc5b138266fd",
       "name" : "log",
-      "source" : "92ac6f734b21b689.txt",
+      "source" : "80eccc5b138266fd.txt",
       "type" : "text/plain",
       "size" : 0
     }, {
-      "uid" : "7978e91c4de24b3a",
+      "uid" : "90075403dd55a0f0",
       "name" : "stdout",
-      "source" : "7978e91c4de24b3a.txt",
+      "source" : "90075403dd55a0f0.txt",
       "type" : "text/plain",
       "size" : 0
     }, {
-      "uid" : "9c5839020f273888",
+      "uid" : "7785f599acc69ce7",
       "name" : "stderr",
-      "source" : "9c5839020f273888.txt",
+      "source" : "7785f599acc69ce7.txt",
       "type" : "text/plain",
       "size" : 0
     } ],
@@ -57,8 +57,8 @@
   "afterStages" : [ {
     "name" : "_UnitTestCase__pytest_class_setup::0",
     "time" : {
-      "start" : 1551231620881,
-      "stop" : 1551231620881,
+      "start" : 1551236675255,
+      "stop" : 1551236675255,
       "duration" : 0
     },
     "status" : "passed",
@@ -84,7 +84,7 @@
     "value" : "wangshengli"
   }, {
     "name" : "thread",
-    "value" : "21276-MainThread"
+    "value" : "12984-MainThread"
   }, {
     "name" : "framework",
     "value" : "pytest"
@@ -104,26 +104,45 @@
   "retry" : false,
   "extra" : {
     "severity" : "normal",
-    "retries" : [ {
-      "uid" : "62c38147380448d6",
-      "status" : "passed",
-      "time" : {
-        "start" : 1551230166110,
-        "stop" : 1551230257909,
-        "duration" : 91799
-      }
-    } ],
+    "retries" : [ ],
     "categories" : [ ],
     "history" : {
       "statistic" : {
         "failed" : 0,
         "broken" : 0,
         "skipped" : 0,
-        "passed" : 9,
+        "passed" : 12,
         "unknown" : 0,
-        "total" : 9
+        "total" : 12
       },
       "items" : [ {
+        "uid" : "7dda37ada44952bd",
+        "reportUrl" : "http://localhost:8080/job/AppiumPython/78/allure/#testresult/7dda37ada44952bd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1551235603587,
+          "stop" : 1551235703283,
+          "duration" : 99696
+        }
+      }, {
+        "uid" : "411973188496e422",
+        "reportUrl" : "http://localhost:8080/job/AppiumPython/74/allure/#testresult/411973188496e422",
+        "status" : "passed",
+        "time" : {
+          "start" : 1551234518848,
+          "stop" : 1551234620809,
+          "duration" : 101961
+        }
+      }, {
+        "uid" : "e57777275f0407d9",
+        "reportUrl" : "http://localhost:8080/job/AppiumPython/73/allure/#testresult/e57777275f0407d9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1551231520195,
+          "stop" : 1551231620879,
+          "duration" : 100684
+        }
+      }, {
         "uid" : "45f1a6c1a28aff8d",
         "reportUrl" : "http://localhost:8080/job/AppiumPython/72/allure/#testresult/45f1a6c1a28aff8d",
         "status" : "passed",
@@ -141,37 +160,10 @@
           "stop" : 1551229851466,
           "duration" : 101210
         }
-      }, {
-        "uid" : "1e9c71feb3e813eb",
-        "reportUrl" : "http://localhost:8080/job/AppiumPython/70/allure/#testresult/1e9c71feb3e813eb",
-        "status" : "passed",
-        "time" : {
-          "start" : 1551166616115,
-          "stop" : 1551166715885,
-          "duration" : 99770
-        }
-      }, {
-        "uid" : "42c06877d16fd053",
-        "reportUrl" : "http://localhost:8080/job/AppiumPython/69/allure/#testresult/42c06877d16fd053",
-        "status" : "passed",
-        "time" : {
-          "start" : 1551166397404,
-          "stop" : 1551166493914,
-          "duration" : 96510
-        }
-      }, {
-        "uid" : "3c1a8b9f8bda69b4",
-        "reportUrl" : "http://localhost:8080/job/AppiumPython/68/allure/#testresult/3c1a8b9f8bda69b4",
-        "status" : "passed",
-        "time" : {
-          "start" : 1551164929730,
-          "stop" : 1551165026554,
-          "duration" : 96824
-        }
       } ]
     },
     "tags" : [ ]
   },
-  "source" : "e57777275f0407d9.json",
+  "source" : "f9829de1b64f0f66.json",
   "parameterValues" : [ ]
 }

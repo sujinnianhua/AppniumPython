@@ -1,4 +1,36 @@
 [ {
+  "buildOrder" : 80,
+  "reportUrl" : "http://localhost:8080/job/AppiumPython/80/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 1,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 79,
+  "reportUrl" : "http://localhost:8080/job/AppiumPython/79/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 0,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 78,
+  "reportUrl" : "http://localhost:8080/job/AppiumPython/78/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 1,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 74,
+  "reportUrl" : "http://localhost:8080/job/AppiumPython/74/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 1,
+    "retry" : 2
+  }
+}, {
   "buildOrder" : 73,
   "reportUrl" : "http://localhost:8080/job/AppiumPython/73/allure",
   "reportName" : "AllureReport",
