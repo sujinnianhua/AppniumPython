@@ -1,74 +1,74 @@
 {
-  "uid" : "45f1a6c1a28aff8d",
+  "uid" : "e57777275f0407d9",
   "name" : "test_login",
   "fullName" : "case.test_case3.TestClass#test_login",
   "historyId" : "c837e2e9e8d8dbe21a6fde5d77231da2",
   "time" : {
-    "start" : 1551230166110,
-    "stop" : 1551230257909,
-    "duration" : 91799
+    "start" : 1551231520195,
+    "stop" : 1551231620879,
+    "duration" : 100684
   },
   "status" : "passed",
   "flaky" : false,
   "beforeStages" : [ {
     "name" : "_UnitTestCase__pytest_class_setup",
     "time" : {
-      "start" : 1551230140266,
-      "stop" : 1551230166105,
-      "duration" : 25839
+      "start" : 1551231494743,
+      "stop" : 1551231520189,
+      "duration" : 25446
     },
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "attachmentsCount" : 0,
     "shouldDisplayMessage" : false,
-    "stepsCount" : 0,
-    "hasContent" : false
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
   } ],
   "testStage" : {
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "3bfccca3e6e3380c",
+      "uid" : "92ac6f734b21b689",
       "name" : "log",
-      "source" : "3bfccca3e6e3380c.txt",
+      "source" : "92ac6f734b21b689.txt",
       "type" : "text/plain",
       "size" : 0
     }, {
-      "uid" : "d3a6d9d79c8be578",
+      "uid" : "7978e91c4de24b3a",
       "name" : "stdout",
-      "source" : "d3a6d9d79c8be578.txt",
+      "source" : "7978e91c4de24b3a.txt",
       "type" : "text/plain",
       "size" : 0
     }, {
-      "uid" : "2d62cc352e3f0d9b",
+      "uid" : "9c5839020f273888",
       "name" : "stderr",
-      "source" : "2d62cc352e3f0d9b.txt",
+      "source" : "9c5839020f273888.txt",
       "type" : "text/plain",
       "size" : 0
     } ],
     "parameters" : [ ],
-    "attachmentsCount" : 3,
     "shouldDisplayMessage" : false,
-    "stepsCount" : 0,
-    "hasContent" : true
+    "attachmentsCount" : 3,
+    "hasContent" : true,
+    "stepsCount" : 0
   },
   "afterStages" : [ {
     "name" : "_UnitTestCase__pytest_class_setup::0",
     "time" : {
-      "start" : 1551230257911,
-      "stop" : 1551230257911,
+      "start" : 1551231620881,
+      "stop" : 1551231620881,
       "duration" : 0
     },
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "attachmentsCount" : 0,
     "shouldDisplayMessage" : false,
-    "stepsCount" : 0,
-    "hasContent" : false
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
   } ],
   "labels" : [ {
     "name" : "parentSuite",
@@ -84,7 +84,7 @@
     "value" : "wangshengli"
   }, {
     "name" : "thread",
-    "value" : "7204-MainThread"
+    "value" : "21276-MainThread"
   }, {
     "name" : "framework",
     "value" : "pytest"
@@ -104,18 +104,35 @@
   "retry" : false,
   "extra" : {
     "severity" : "normal",
-    "retries" : [ ],
+    "retries" : [ {
+      "uid" : "62c38147380448d6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551230166110,
+        "stop" : 1551230257909,
+        "duration" : 91799
+      }
+    } ],
     "categories" : [ ],
     "history" : {
       "statistic" : {
         "failed" : 0,
         "broken" : 0,
         "skipped" : 0,
-        "passed" : 8,
+        "passed" : 9,
         "unknown" : 0,
-        "total" : 8
+        "total" : 9
       },
       "items" : [ {
+        "uid" : "45f1a6c1a28aff8d",
+        "reportUrl" : "http://localhost:8080/job/AppiumPython/72/allure/#testresult/45f1a6c1a28aff8d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1551230166110,
+          "stop" : 1551230257909,
+          "duration" : 91799
+        }
+      }, {
         "uid" : "4ea8f098ed22127d",
         "reportUrl" : "http://localhost:8080/job/AppiumPython/71/allure/#testresult/4ea8f098ed22127d",
         "status" : "passed",
@@ -151,19 +168,10 @@
           "stop" : 1551165026554,
           "duration" : 96824
         }
-      }, {
-        "uid" : "a59a5d8e986f3c9b",
-        "reportUrl" : "http://localhost:8080/job/AppiumPython/67/allure/#testresult/a59a5d8e986f3c9b",
-        "status" : "passed",
-        "time" : {
-          "start" : 1551163720686,
-          "stop" : 1551163817291,
-          "duration" : 96605
-        }
       } ]
     },
     "tags" : [ ]
   },
-  "source" : "45f1a6c1a28aff8d.json",
+  "source" : "e57777275f0407d9.json",
   "parameterValues" : [ ]
 }

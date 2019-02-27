@@ -121,11 +121,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 8,
+      "passed" : 9,
       "unknown" : 0,
-      "total" : 8
+      "total" : 9
     },
     "items" : [ {
+      "uid" : "e57777275f0407d9",
+      "reportUrl" : "http://localhost:8080/job/AppiumPython/73/allure/#testresult/e57777275f0407d9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551231520195,
+        "stop" : 1551231620879,
+        "duration" : 100684
+      }
+    }, {
       "uid" : "45f1a6c1a28aff8d",
       "reportUrl" : "http://localhost:8080/job/AppiumPython/72/allure/#testresult/45f1a6c1a28aff8d",
       "status" : "passed",
@@ -160,15 +169,6 @@
         "start" : 1551166397404,
         "stop" : 1551166493914,
         "duration" : 96510
-      }
-    }, {
-      "uid" : "3c1a8b9f8bda69b4",
-      "reportUrl" : "http://localhost:8080/job/AppiumPython/68/allure/#testresult/3c1a8b9f8bda69b4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1551164929730,
-        "stop" : 1551165026554,
-        "duration" : 96824
       }
     } ]
   },

@@ -4,21 +4,21 @@
   "children" : [ {
     "name" : "wangshengli",
     "children" : [ {
-      "name" : "7204-MainThread",
+      "name" : "21276-MainThread",
       "children" : [ {
         "name" : "test_login",
-        "uid" : "45f1a6c1a28aff8d",
-        "parentUid" : "ecf54a1bcb8c17c5d3e7801d77308f38",
+        "uid" : "e57777275f0407d9",
+        "parentUid" : "5c23702b697dc9883eb32651abde9796",
         "status" : "passed",
         "time" : {
-          "start" : 1551230166110,
-          "stop" : 1551230257909,
-          "duration" : 91799
+          "start" : 1551231520195,
+          "stop" : 1551231620879,
+          "duration" : 100684
         },
         "flaky" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "ecf54a1bcb8c17c5d3e7801d77308f38"
+      "uid" : "5c23702b697dc9883eb32651abde9796"
     } ],
     "uid" : "f2f6740806ab0fbe6903d46f66521fc8"
   } ]

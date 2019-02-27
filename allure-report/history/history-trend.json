@@ -1,4 +1,16 @@
 [ {
+  "buildOrder" : 73,
+  "reportUrl" : "http://localhost:8080/job/AppiumPython/73/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 1,
+    "unknown" : 0,
+    "total" : 1
+  }
+}, {
   "buildOrder" : 72,
   "reportUrl" : "http://localhost:8080/job/AppiumPython/72/allure",
   "reportName" : "AllureReport",
