@@ -1,0 +1,169 @@
+{
+  "uid" : "45f1a6c1a28aff8d",
+  "name" : "test_login",
+  "fullName" : "case.test_case3.TestClass#test_login",
+  "historyId" : "c837e2e9e8d8dbe21a6fde5d77231da2",
+  "time" : {
+    "start" : 1551230166110,
+    "stop" : 1551230257909,
+    "duration" : 91799
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "_UnitTestCase__pytest_class_setup",
+    "time" : {
+      "start" : 1551230140266,
+      "stop" : 1551230166105,
+      "duration" : 25839
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3bfccca3e6e3380c",
+      "name" : "log",
+      "source" : "3bfccca3e6e3380c.txt",
+      "type" : "text/plain",
+      "size" : 0
+    }, {
+      "uid" : "d3a6d9d79c8be578",
+      "name" : "stdout",
+      "source" : "d3a6d9d79c8be578.txt",
+      "type" : "text/plain",
+      "size" : 0
+    }, {
+      "uid" : "2d62cc352e3f0d9b",
+      "name" : "stderr",
+      "source" : "2d62cc352e3f0d9b.txt",
+      "type" : "text/plain",
+      "size" : 0
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "_UnitTestCase__pytest_class_setup::0",
+    "time" : {
+      "start" : 1551230257911,
+      "stop" : 1551230257911,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_case3"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestClass"
+  }, {
+    "name" : "host",
+    "value" : "wangshengli"
+  }, {
+    "name" : "thread",
+    "value" : "7204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython2"
+  }, {
+    "name" : "package",
+    "value" : "case.test_case3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 8,
+        "unknown" : 0,
+        "total" : 8
+      },
+      "items" : [ {
+        "uid" : "4ea8f098ed22127d",
+        "reportUrl" : "http://localhost:8080/job/AppiumPython/71/allure/#testresult/4ea8f098ed22127d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1551229750256,
+          "stop" : 1551229851466,
+          "duration" : 101210
+        }
+      }, {
+        "uid" : "1e9c71feb3e813eb",
+        "reportUrl" : "http://localhost:8080/job/AppiumPython/70/allure/#testresult/1e9c71feb3e813eb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1551166616115,
+          "stop" : 1551166715885,
+          "duration" : 99770
+        }
+      }, {
+        "uid" : "42c06877d16fd053",
+        "reportUrl" : "http://localhost:8080/job/AppiumPython/69/allure/#testresult/42c06877d16fd053",
+        "status" : "passed",
+        "time" : {
+          "start" : 1551166397404,
+          "stop" : 1551166493914,
+          "duration" : 96510
+        }
+      }, {
+        "uid" : "3c1a8b9f8bda69b4",
+        "reportUrl" : "http://localhost:8080/job/AppiumPython/68/allure/#testresult/3c1a8b9f8bda69b4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1551164929730,
+          "stop" : 1551165026554,
+          "duration" : 96824
+        }
+      }, {
+        "uid" : "a59a5d8e986f3c9b",
+        "reportUrl" : "http://localhost:8080/job/AppiumPython/67/allure/#testresult/a59a5d8e986f3c9b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1551163720686,
+          "stop" : 1551163817291,
+          "duration" : 96605
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "45f1a6c1a28aff8d.json",
+  "parameterValues" : [ ]
+}

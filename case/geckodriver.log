@@ -1,0 +1,8 @@
+1545129049725	geckodriver	INFO	Listening on 127.0.0.1:51440
+1545129052729	mozprofile::profile	INFO	Using profile path C:\Users\0316-5\AppData\Local\Temp\rust_mozprofile.34q68IJEhGVS
+1545129052733	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Firefox\firefox.exe with args []
+1545129052915	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51448
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1545129054609	Marionette	INFO	Listening on port 51448
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1545129128212	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error

@@ -1,0 +1,292 @@
+{
+  "fc37736236b1c0efa52a7cd6caa03e75" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 8,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "f9c6e25254b6f3b5",
+      "reportUrl" : "http://localhost:8080/job/AppiumPython/71/allure/#testresult/f9c6e25254b6f3b5",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: for a  reson",
+      "time" : {
+        "start" : 1551161048586,
+        "stop" : 1551161048586,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "3293e4dc6104a913",
+      "reportUrl" : "http://localhost:8080/job/AppiumPython/70/allure/#testresult/3293e4dc6104a913",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: for a  reson",
+      "time" : {
+        "start" : 1551161048586,
+        "stop" : 1551161048586,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "179c407d37232478",
+      "reportUrl" : "http://localhost:8080/job/AppiumPython/69/allure/#testresult/179c407d37232478",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: for a  reson",
+      "time" : {
+        "start" : 1551161048586,
+        "stop" : 1551161048586,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "3f6f8d884f0b6a95",
+      "reportUrl" : "http://localhost:8080/job/AppiumPython/68/allure/#testresult/3f6f8d884f0b6a95",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: for a  reson",
+      "time" : {
+        "start" : 1551161048586,
+        "stop" : 1551161048586,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "125d8af600c7e004",
+      "reportUrl" : "http://localhost:8080/job/AppiumPython/67/allure/#testresult/125d8af600c7e004",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: for a  reson",
+      "time" : {
+        "start" : 1551161048586,
+        "stop" : 1551161048586,
+        "duration" : 0
+      }
+    } ]
+  },
+  "8a7fc3444fa3cc6c49faad5523ca3906" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "acf5ab59004d5beb",
+      "reportUrl" : "http://localhost:8080/job/AppiumPython/71/allure/#testresult/acf5ab59004d5beb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551161048578,
+        "stop" : 1551161048578,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e19e9e4238abb884",
+      "reportUrl" : "http://localhost:8080/job/AppiumPython/70/allure/#testresult/e19e9e4238abb884",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551161048578,
+        "stop" : 1551161048578,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ff8fe709882bbc6a",
+      "reportUrl" : "http://localhost:8080/job/AppiumPython/69/allure/#testresult/ff8fe709882bbc6a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551161048578,
+        "stop" : 1551161048578,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "1910b45779570945",
+      "reportUrl" : "http://localhost:8080/job/AppiumPython/68/allure/#testresult/1910b45779570945",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551161048578,
+        "stop" : 1551161048578,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "6ee393c4bf799aa0",
+      "reportUrl" : "http://localhost:8080/job/AppiumPython/67/allure/#testresult/6ee393c4bf799aa0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551161048578,
+        "stop" : 1551161048578,
+        "duration" : 0
+      }
+    } ]
+  },
+  "c837e2e9e8d8dbe21a6fde5d77231da2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "45f1a6c1a28aff8d",
+      "reportUrl" : "http://localhost:8080/job/AppiumPython/72/allure/#testresult/45f1a6c1a28aff8d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551230166110,
+        "stop" : 1551230257909,
+        "duration" : 91799
+      }
+    }, {
+      "uid" : "4ea8f098ed22127d",
+      "reportUrl" : "http://localhost:8080/job/AppiumPython/71/allure/#testresult/4ea8f098ed22127d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551229750256,
+        "stop" : 1551229851466,
+        "duration" : 101210
+      }
+    }, {
+      "uid" : "1e9c71feb3e813eb",
+      "reportUrl" : "http://localhost:8080/job/AppiumPython/70/allure/#testresult/1e9c71feb3e813eb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551166616115,
+        "stop" : 1551166715885,
+        "duration" : 99770
+      }
+    }, {
+      "uid" : "42c06877d16fd053",
+      "reportUrl" : "http://localhost:8080/job/AppiumPython/69/allure/#testresult/42c06877d16fd053",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551166397404,
+        "stop" : 1551166493914,
+        "duration" : 96510
+      }
+    }, {
+      "uid" : "3c1a8b9f8bda69b4",
+      "reportUrl" : "http://localhost:8080/job/AppiumPython/68/allure/#testresult/3c1a8b9f8bda69b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551164929730,
+        "stop" : 1551165026554,
+        "duration" : 96824
+      }
+    } ]
+  },
+  "0c2117dd046a01ed4a893a88f132787d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "eda8be4105aa8dc0",
+      "reportUrl" : "http://localhost:8080/job/AppiumPython/71/allure/#testresult/eda8be4105aa8dc0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551161048570,
+        "stop" : 1551161048571,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "de3f611c5e2b7e0a",
+      "reportUrl" : "http://localhost:8080/job/AppiumPython/70/allure/#testresult/de3f611c5e2b7e0a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551161048570,
+        "stop" : 1551161048571,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "9c4df86c7c6a15a6",
+      "reportUrl" : "http://localhost:8080/job/AppiumPython/69/allure/#testresult/9c4df86c7c6a15a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551161048570,
+        "stop" : 1551161048571,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "9644ddc2b396e126",
+      "reportUrl" : "http://localhost:8080/job/AppiumPython/68/allure/#testresult/9644ddc2b396e126",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551161048570,
+        "stop" : 1551161048571,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "f6526861661b2a97",
+      "reportUrl" : "http://localhost:8080/job/AppiumPython/67/allure/#testresult/f6526861661b2a97",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551161048570,
+        "stop" : 1551161048571,
+        "duration" : 1
+      }
+    } ]
+  },
+  "b411ba0678173c144f166d7ec577b712" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 7,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 7
+    },
+    "items" : [ {
+      "uid" : "60379c057d081afa",
+      "reportUrl" : "http://localhost:8080/job/AppiumPython/71/allure/#testresult/60379c057d081afa",
+      "status" : "broken",
+      "statusDetails" : "Exception: oops",
+      "time" : {
+        "start" : 1551161048594,
+        "stop" : 1551161048594,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b1fb659e09350ad0",
+      "reportUrl" : "http://localhost:8080/job/AppiumPython/70/allure/#testresult/b1fb659e09350ad0",
+      "status" : "broken",
+      "statusDetails" : "Exception: oops",
+      "time" : {
+        "start" : 1551161048594,
+        "stop" : 1551161048594,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "659050dbc603e9fa",
+      "reportUrl" : "http://localhost:8080/job/AppiumPython/69/allure/#testresult/659050dbc603e9fa",
+      "status" : "broken",
+      "statusDetails" : "Exception: oops",
+      "time" : {
+        "start" : 1551161048594,
+        "stop" : 1551161048594,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "19fdfe8b4ddc8647",
+      "reportUrl" : "http://localhost:8080/job/AppiumPython/68/allure/#testresult/19fdfe8b4ddc8647",
+      "status" : "broken",
+      "statusDetails" : "Exception: oops",
+      "time" : {
+        "start" : 1551161048594,
+        "stop" : 1551161048594,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "2f64b1e05505fe20",
+      "reportUrl" : "http://localhost:8080/job/AppiumPython/67/allure/#testresult/2f64b1e05505fe20",
+      "status" : "broken",
+      "statusDetails" : "Exception: oops",
+      "time" : {
+        "start" : 1551161048594,
+        "stop" : 1551161048594,
+        "duration" : 0
+      }
+    } ]
+  }
+}
