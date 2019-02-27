@@ -2,7 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4303c23a-eb49-4864-9d65-d55236c03628" name="Default" comment="提交自动化项目">
-      <change beforePath="$PROJECT_DIR$/case/test_case3.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/test_case3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/2d62cc352e3f0d9b.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/3bfccca3e6e3380c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/d3a6d9d79c8be578.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/behaviors.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/data/behaviors.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/packages.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/data/packages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/suites.csv" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/data/suites.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/suites.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/data/suites.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/45f1a6c1a28aff8d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/timeline.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/data/timeline.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/export/influxDbData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/export/influxDbData.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/export/prometheusData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/export/prometheusData.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/history/categories-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/history/categories-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/history/duration-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/history/duration-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/history/history-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/history/history-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/history/history.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/history/history.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/history/retry-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/history/retry-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/categories-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/widgets/categories-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/duration-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/widgets/duration-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/duration.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/widgets/duration.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/executors.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/widgets/executors.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/history-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/widgets/history-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/retry-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/widgets/retry-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/severity.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/widgets/severity.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/status-chart.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/widgets/status-chart.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/summary.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/widgets/summary.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/executor.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-results/executor.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/history/categories-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-results/history/categories-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/history/duration-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-results/history/duration-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/history/history-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-results/history/history-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/history/history.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-results/history/history.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/history/retry-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-results/history/retry-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/testrun.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-results/testrun.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -112,7 +143,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="148" />
     <option name="y" value="39" />
     <option name="width" value="1553" />
@@ -132,6 +163,11 @@
             <path>
               <item name="AppniumPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="AppniumPython" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AppniumPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AppniumPython" type="462c0819:PsiDirectoryNode" />
+              <item name="allure-results" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AppniumPython" type="b2602c69:ProjectViewProjectNode" />
@@ -383,7 +419,7 @@
       <workItem from="1551159174393" duration="6000" />
       <workItem from="1551159653810" duration="3799000" />
       <workItem from="1551164636815" duration="8362000" />
-      <workItem from="1551229785016" duration="867000" />
+      <workItem from="1551229785016" duration="1275000" />
     </task>
     <task id="LOCAL-00001" summary="提交自动化项目">
       <created>1551168828321</created>
@@ -442,7 +478,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="170457000" />
+    <option name="totallyTimeSpent" value="170865000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
