@@ -25,6 +25,8 @@ class TestClass(unittest.TestCase):
      def test_login(self):
          self.login_business.login_pass()
          self.driver.quit()
+     def test_one(self):
+         print "this is demo1"
      def tearDown(self):
         print "this is tearDown1111111111124"
 
