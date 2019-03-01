@@ -1,5 +1,8 @@
 # -*- coding: UTF-8 -*-
 import  sys
+
+from appium.webdriver.common.touch_action import TouchAction
+
 sys.path.append('D:/workplace/AppniumPython')
 reload(sys)
 # sys.setdefaultencoding('utf8')
@@ -82,65 +85,64 @@ get_by_local.get_element('login_button').click()
 
 #关闭窗口
 driver.find_element_by_id("com.phsxy.footballbaby.test:id/iv_close").click()
-driver.find_element_by_id("com.phsxy.footballbaby.test:id/tv_information_comments").click()
 # com.phsxy.footballbaby.test:id/tv_information_comments
 # #点击我的
-# driver.find_element_by_id("com.phsxy.footballbaby.test:id/rb04_footballbabymain").click()
+driver.find_element_by_id("com.phsxy.footballbaby.test:id/rb04_footballbabymain").click()
 # #点击设置
-# driver.find_element_by_id("com.phsxy.footballbaby.test:id/activity_mycenter_setting_li").click()
+driver.find_element_by_id("com.phsxy.footballbaby.test:id/activity_mycenter_setting_li").click()
 # #点击退出
 # driver.find_element_by_id("com.phsxy.footballbaby.test:id/activity_editpersonalinfo_exitlogin").click()
 
 # #点击收货地址设置
-# driver.find_element_by_id("com.phsxy.footballbaby.test:id/activity_setting_address_li").click()
+driver.find_element_by_id("com.phsxy.footballbaby.test:id/activity_setting_address_li").click()
 # #点击添加收货地址
-# driver.find_element_by_id("com.phsxy.footballbaby.test:id/title_iv_right").click()
+driver.find_element_by_id("com.phsxy.footballbaby.test:id/title_iv_right").click()
 # #设置收件人姓名
-# driver.find_element_by_id("com.phsxy.footballbaby.test:id/activity_addressee_edt").send_keys("wsl")
+driver.find_element_by_id("com.phsxy.footballbaby.test:id/activity_addressee_edt").send_keys("wsl")
 #
 # #设置收件人手机号
-# driver.find_element_by_id("com.phsxy.footballbaby.test:id/activity_addresseemobile_edt").send_keys("18510985743")
+driver.find_element_by_id("com.phsxy.footballbaby.test:id/activity_addresseemobile_edt").send_keys("18510985743")
 # #设置收件人地区
-# driver.find_element_by_id("com.phsxy.footballbaby.test:id/activity_addressregion_tv").click()
+driver.find_element_by_id("com.phsxy.footballbaby.test:id/activity_addressregion_tv").click()
 # #选择确定
-# driver.find_element_by_id("com.phsxy.footballbaby.test:id/btnSubmit").click()
+driver.find_element_by_id("com.phsxy.footballbaby.test:id/btnSubmit").click()
 # #设置收件人详细地址
 #
-# driver.find_element_by_id("com.phsxy.footballbaby.test:id/activity_addresseedetail_edt").send_keys(u'北京市昌平区西二旗')
+driver.find_element_by_id("com.phsxy.footballbaby.test:id/activity_addresseedetail_edt").send_keys(u'北京市昌平区西二旗')
 # #点击保存
 #
-# driver.find_element_by_id("com.phsxy.footballbaby.test:id/activity_editaddress_savebtn").click()
+driver.find_element_by_id("com.phsxy.footballbaby.test:id/activity_editaddress_savebtn").click()
 #
 # #设置默认地址
-# TouchAction(driver).press(x=689,y=187).wait(2000).move_to(x=103,y=83).release().perform()
-# driver.find_element_by_id("com.phsxy.footballbaby.test:id/item_leftslip_default").click()
+TouchAction(driver).press(x=689,y=187).wait(2000).move_to(x=103,y=83).release().perform()
+driver.find_element_by_id("com.phsxy.footballbaby.test:id/item_leftslip_default").click()
 # #返回到设置
-# driver.find_element_by_id("com.phsxy.footballbaby.test:id/title_iv_left").click()
+driver.find_element_by_id("com.phsxy.footballbaby.test:id/title_iv_left").click()
 # #修改登录密码
-# driver.find_element_by_id("com.phsxy.footballbaby.test:id/activity_setting_modifypassword_li").click()
+driver.find_element_by_id("com.phsxy.footballbaby.test:id/activity_setting_modifypassword_li").click()
 # #输入登录密码
-# driver.find_element_by_id("com.phsxy.footballbaby.test:id/activity_setpass_edt").send_keys("a8887187")
+driver.find_element_by_id("com.phsxy.footballbaby.test:id/activity_setpass_edt").send_keys("a8887187")
 # #再次输入登录密码
-# driver.find_element_by_id("com.phsxy.footballbaby.test:id/activity_setpass_sureedt").send_keys("a8887187")
-# driver.find_element_by_id("com.phsxy.footballbaby.test:id/btn_finish").click()
+driver.find_element_by_id("com.phsxy.footballbaby.test:id/activity_setpass_sureedt").send_keys("a8887187")
+driver.find_element_by_id("com.phsxy.footballbaby.test:id/btn_finish").click()
 # #输入登录账号
-# driver.find_element_by_id("com.phsxy.footballbaby.test:id/et_login_mobile").send_keys("18510985743")
+driver.find_element_by_id("com.phsxy.footballbaby.test:id/et_login_mobile").send_keys("18510985743")
 # #输入登录密码
-# driver.find_element_by_id("com.phsxy.footballbaby.test:id/et_login_").send_keys("a8887187")
+driver.find_element_by_id("com.phsxy.footballbaby.test:id/et_login_").send_keys("a8887187")
 # #点击登录
-# driver.find_element_by_id("com.phsxy.footballbaby.test:id/btn_login").click()
+driver.find_element_by_id("com.phsxy.footballbaby.test:id/btn_login").click()
 # #点击我的
-# driver.find_element_by_id("com.phsxy.footballbaby.test:id/rb04_footballbabymain").click()
+driver.find_element_by_id("com.phsxy.footballbaby.test:id/rb04_footballbabymain").click()
 # #点击设置
-# driver.find_element_by_id("com.phsxy.footballbaby.test:id/activity_mycenter_setting_li").click()
+driver.find_element_by_id("com.phsxy.footballbaby.test:id/activity_mycenter_setting_li").click()
 # #修改支付密码
-# driver.find_element_by_id("com.phsxy.footballbaby.test:id/activity_setting_modifyingpaypassword_li").click()
-# for z in range(1,7):
-#     driver.find_element_by_id("com.phsxy.footballbaby.test:id/adapter_inputpwd_tv").click()
-# for z in range(1,7):
-#     driver.find_element_by_id("com.phsxy.footballbaby.test:id/adapter_inputpwd_tv").click()
-# for z in range(1,7):
-#     driver.find_element_by_id("com.phsxy.footballbaby.test:id/adapter_inputpwd_tv").click()
+driver.find_element_by_id("com.phsxy.footballbaby.test:id/activity_setting_modifyingpaypassword_li").click()
+for z in range(1,7):
+    driver.find_element_by_id("com.phsxy.footballbaby.test:id/adapter_inputpwd_tv").click()
+for z in range(1,7):
+    driver.find_element_by_id("com.phsxy.footballbaby.test:id/adapter_inputpwd_tv").click()
+for z in range(1,7):
+    driver.find_element_by_id("com.phsxy.footballbaby.test:id/adapter_inputpwd_tv").click()
 
 
 # driver.find_element_by_id("com.phsxy.footballbaby.test:id/activity_setting_forgetpaypassword_li").click()
