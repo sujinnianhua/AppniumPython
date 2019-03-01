@@ -3,7 +3,7 @@ import unittest
 from appium import webdriver
 import time
 from business.login_business import LoginBusiness
-
+import pytest
 
 class TestClass(unittest.TestCase):
      @classmethod
@@ -29,6 +29,8 @@ class TestClass(unittest.TestCase):
          print "this is demo1"
      def tearDown(self):
         print "this is tearDown1111111111124"
+if __name__ == '__main__':
+    pytest.main()
 
 
 

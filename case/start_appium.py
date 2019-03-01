@@ -1,10 +1,8 @@
 # -*- coding: UTF-8 -*-
-import new
 import  sys
 sys.path.append('D:/workplace/AppniumPython')
 reload(sys)
-sys.setdefaultencoding('utf8')
-from util.read_init import ReadIni
+# sys.setdefaultencoding('utf8')
 from util.get_by_local import GetByLocal
 from appium import  webdriver
 import time
@@ -84,12 +82,14 @@ get_by_local.get_element('login_button').click()
 
 #关闭窗口
 driver.find_element_by_id("com.phsxy.footballbaby.test:id/iv_close").click()
-#点击我的
-driver.find_element_by_id("com.phsxy.footballbaby.test:id/rb04_footballbabymain").click()
-#点击设置
-driver.find_element_by_id("com.phsxy.footballbaby.test:id/activity_mycenter_setting_li").click()
-#点击退出
-driver.find_element_by_id("com.phsxy.footballbaby.test:id/activity_editpersonalinfo_exitlogin").click()
+driver.find_element_by_id("com.phsxy.footballbaby.test:id/tv_information_comments").click()
+# com.phsxy.footballbaby.test:id/tv_information_comments
+# #点击我的
+# driver.find_element_by_id("com.phsxy.footballbaby.test:id/rb04_footballbabymain").click()
+# #点击设置
+# driver.find_element_by_id("com.phsxy.footballbaby.test:id/activity_mycenter_setting_li").click()
+# #点击退出
+# driver.find_element_by_id("com.phsxy.footballbaby.test:id/activity_editpersonalinfo_exitlogin").click()
 
 # #点击收货地址设置
 # driver.find_element_by_id("com.phsxy.footballbaby.test:id/activity_setting_address_li").click()
