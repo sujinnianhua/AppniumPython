@@ -1,9 +1,10 @@
 # coding=utf-8
 import unittest
+
+import pytest
 from appium import webdriver
 import time
 from business.login_business import LoginBusiness
-import pytest
 class TestClass(unittest.TestCase):
      @classmethod
      def setUpClass(cls):
